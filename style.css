@@ -1,0 +1,16 @@
+body{
+	width: 960px;
+	background-color: #2168ae;
+}
+h1{
+	margin:20px;
+}
+#img{
+	float: left;
+	margin: 20px;
+}
+
+p{
+	padding: 20px;
+	width: 80%;
+}
